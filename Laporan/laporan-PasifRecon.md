@@ -6,7 +6,7 @@ Mengindentifikasi informasi public PT. Shopee tanpa meninggalkan jejak atau log 
 
 ---
 
-## 3. Langkah-langkah Pengintaian
+## 2. Langkah-langkah Pengintaian
 
 ### • Pencarian Domain dan SubDomain
 
